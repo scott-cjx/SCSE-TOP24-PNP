@@ -42,6 +42,11 @@ This shirt will be following a hades/ imposter theme.
 
 ![MC-B6](./drafts/Back/MC-B6.jpg)
 
+#### MC-B7
+
+![MC-B7](./drafts/Back/MC-B7.jpg)
+
+
 ---
 
 ## OGs
