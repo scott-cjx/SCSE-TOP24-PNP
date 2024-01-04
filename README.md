@@ -51,23 +51,23 @@ Designs WIP
 
 ## The Crew Series
 
-![1](./drafts/crew?_series/1.png)
+![1](./drafts/crew_series/1.png)
 
-![2](./drafts/crew?_series/2.png)
+![2](./drafts/crew_series/2.png)
 
-![3](./drafts/crew?_series/3.png)
+![3](./drafts/crew_series/3.png)
 
-![4](./drafts/crew?_series/4.png)
+![4](./drafts/crew_series/4.png)
 
-![5](./drafts/crew?_series/5.png)
+![5](./drafts/crew_series/5.png)
 
-![6](./drafts/crew?_series/6.png)
+![6](./drafts/crew_series/6.png)
 
-![7](./drafts/crew?_series/7.png)
+![7](./drafts/crew_series/7.png)
 
-![8](./drafts/crew?_series/8.png)
+![8](./drafts/crew_series/8.png)
 
-![9](./drafts/crew?_series/9.png)
+![9](./drafts/crew_series/9.png)
 
-![10](./drafts/crew?_series/10.png)
+![10](./drafts/crew_series/10.png)
 
