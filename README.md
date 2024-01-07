@@ -4,17 +4,36 @@ There will 2* different shirt designs. Namely for:
 1. Main Committee
 2. OGs
 
-\* tentatively, but subjected to change
-
-- back to [main page](./main)
-- [crew series 1](./crew-series-3)
-- [crew series 2](./crew-series-2)
-- [crew series 3](./crew-series-3)
-
-
 ## Main Committee
-
 This shirt will be following a hades/ imposter theme.
+
+- Crew Series 1-3
+- 
+
+### Crew Series
+
+#### crew series 1
+![crew series 1](./drafts/crew-series-1/12-ZEUS.png)
+
+#### crew series 2
+![crew series 2](./drafts/crew-series-2/12-ZEUS.png)
+
+#### crew series 3
+![crew series 3](./drafts/crew-series-3/12-ZEUS.png)
+
+#### MC-B1
+
+![MC-B1](./drafts/Back/MC-B1.jpg)
+
+#### MC-B2
+
+![MC-B2](./drafts/Back/MC-B2.jpg)
+
+#### MC-B3
+
+![MC-B3](./drafts/Back/MC-B3.jpg)
+
+
 
 ### Front
 
