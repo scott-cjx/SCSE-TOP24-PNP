@@ -1,6 +1,6 @@
 # Crew Series 1.0
 
-- back to [main page](./main.md)
+- back to [main page](/)
 - [crew series 2](./crew-series-2)
 - [crew series 3](./crew-series-3)
 
