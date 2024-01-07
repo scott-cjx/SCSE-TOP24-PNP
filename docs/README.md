@@ -43,9 +43,9 @@ These shirts are designed for EACH individual greek god. there are 12 shirts in 
 ![crew series 3](./drafts/crew-series-3/12-ZEUS.png)
 
 ### Front
-#### crew-series-front-1
+#### CSF-1
 ![crew-series-front-1](./drafts/crew-series-front/csf-1.png)
 
-#### crew-series-front-4
+#### CSF-4
 ![crew-series-front-4](./drafts/crew-series-front/csf-4.png)
 
