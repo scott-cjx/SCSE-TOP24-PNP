@@ -1,6 +1,6 @@
 # Crew Series 1.0
 
-- back to [main page](/)
+- back to [main page](/SCSE-TOP24-PNP)
 - [crew series 2](./crew-series-2)
 - [crew series 3](./crew-series-3)
 
