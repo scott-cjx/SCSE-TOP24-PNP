@@ -9,15 +9,15 @@ This shirt will be following a hades/ imposter theme.
 
 #### MC-B2
 
-![MC-B2](./drafts/Back/MC-B2.jpg)
+![MC-B2](./drafts/MC-B2/MC-B2.jpg)
 
 #### MC-B5
 
-![MC-B5](./drafts/Back/MC-B5.jpg)
+![MC-B5](./drafts/MC-B5/MC-B5.jpg)
 
 #### MC-B8
 
-![MC-B8](./drafts/Back/MC-B8.jpg)
+![MC-B8](./drafts/MC-B8/MC-B8.jpg)
 
 ### Front
 
