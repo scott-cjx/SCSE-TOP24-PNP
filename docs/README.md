@@ -4,6 +4,11 @@ There will 2 different shirt designs. Namely for:
 1. Main Committee
 2. OGs
 
+
+## Update
+[Winner Designs here](./winners)
+
+
 ## Main Committee
 This shirt will be following a hades/ imposter theme.
 
